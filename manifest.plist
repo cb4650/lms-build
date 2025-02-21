@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.hellocb.lmsapp</string>
+                <string>in.visionfundindia.lms</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>1.1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>lms-app</string>
+                <string>EnlightHer</string>
             </dict>
         </dict>
     </array>
