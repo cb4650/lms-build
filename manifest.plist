@@ -15,16 +15,18 @@
                 </dict>
             </array>
             <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>in.visionfundindia.lms</string>
-                <key>bundle-version</key>
-                <string>1.1.0</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>EnlightHer</string>
-            </dict>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>in.visionfundindia.lms</string>
+				<key>bundle-version</key>
+				<string>1.1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>EnlightHer</string>
+			</dict>
         </dict>
     </array>
 </dict>
